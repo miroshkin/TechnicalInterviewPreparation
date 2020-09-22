@@ -7,7 +7,7 @@ namespace TechnicalInterviewPreparation
     {
         static void Main(string[] args)
         {
-            IQuestion question = new Question_004();
+            IQuestion question = new Question_005();
             question.GetAnswer();
         }
 
